@@ -15,6 +15,8 @@
 }
  */
 
+
+//Sum of number upto n
  public class rec1 {
   public static int sum(int n) {
     if (n==0) {
@@ -29,4 +31,5 @@
     int n  = 5;
    System.out.println(sum(n)); 
   }
+
  }
