@@ -1,3 +1,5 @@
+//Set all the "x" at the end 
+
 public class rec14 {
   
   public static void x_at_last(String str , String new_str , int index , int count ) {
@@ -29,5 +31,6 @@ public class rec14 {
 
     x_at_last(str, new_str, index  ,count );
   }
+
 
 }
