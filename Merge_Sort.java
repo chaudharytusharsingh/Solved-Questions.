@@ -1,3 +1,4 @@
+// Merge sort
 public class Merge_Sort {
 
   public static void divide(int ar[], int start_idx, int end_idx) {
@@ -54,4 +55,5 @@ public class Merge_Sort {
       System.out.print(ar[index]+" ");
     }
   }
+
 }
