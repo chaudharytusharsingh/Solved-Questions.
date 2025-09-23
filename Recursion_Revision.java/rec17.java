@@ -1,3 +1,4 @@
+//Print key Pad Combination
 public class rec17 {
   public static String ar[]= {"." ,"abc" ,"def" , "ghi" ,"jkl" , "mno" ,"pqrs", "tuv" , "wxyz" };
   public static void keypad(String str , int idx , String str2) {
@@ -16,4 +17,5 @@ public class rec17 {
     String str = "23";
     keypad(str, 0, "");
   }
+
 }
