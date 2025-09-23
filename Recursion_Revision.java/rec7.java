@@ -1,3 +1,5 @@
+// WAP for X^N // 2^10 ==1024;
+
 public class rec7 {
   public static int f1(int x, int n) {
     if (n == 0) {
@@ -18,3 +20,4 @@ public class rec7 {
     System.out.println(f1(x, n));
   }
 }
+
