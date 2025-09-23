@@ -1,3 +1,5 @@
+//Tower of hanoi 
+
 public class rec10 {
   public static void toh(int disks , String a ,String b ,String c)  {
     if (disks == 1) {
@@ -13,3 +15,4 @@ public class rec10 {
     toh(disks, "A", "B", "C");
   }
 }
+
