@@ -1,3 +1,5 @@
+//Print first and last occurance of letter"x"
+
 public class rec12 {
   public static int first = -1;
   public static int last = -1;
@@ -31,4 +33,5 @@ public class rec12 {
     int index = 0;
     first_LAST_OCCUR(str, index, found);
   }
+
 }
